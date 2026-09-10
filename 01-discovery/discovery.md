@@ -31,11 +31,11 @@ The system should centralize where bookings for different equipment pieces are m
 The system should make it easy for staff and students to book different equipment pieces.
 The system should help the college to study the demand of different equipment pieces.
 ## 6. Scope
-# In Scope
+### In Scope
 There is no concrete system for making a booking.
 Human error can cause confusion and difficulty in booking.
 There may be preferential treatment involved in booking.
-# Out of Scope / Not Yet Established
+### Out of Scope / Not Yet Established
 Staff are able to override a students booking.
 Punishments for late/damaged equipment.
 Method of dealing with no-shows.
