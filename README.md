@@ -4,6 +4,6 @@ Individual Requirements Engineering project work.
 Name: Richard Doyle
 ## Module
 Requirements Engineering
-##Project Status
+## Project Status
 Week 1 -- Initial discovery
-##Repository Purpose
+## Repository Purpose
