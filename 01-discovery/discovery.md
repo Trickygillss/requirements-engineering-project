@@ -40,8 +40,14 @@ Staff and Students may run into issues with Technicians as if equipment is booke
 - Punishments for late/damaged equipment.
 - Method of dealing with no-shows.
 ## 7. Candidate Requirements
-- The system shall allow authorized users to make a booking for specific equipment at a specific time & date.
-- The system shall allow staff to observe who has booked equipment, when the equipment was booked, and where it will be going.
+### Functional
+- The system shall allow an authorized user to request equipment for a specified time and date.
+- The system shall allow an authorized user to manage bookings.
+- The system shall allow an authorized user to view past and future bookings.
+- The system shall allow an authorized user to ...
+### Non-Functional
+- The system should support accessible use.
+- The system shall restrict booking-management functions to authorized users.
 ## 8. Requirement Surgery
 - R1: The system should be easy to use.
 - 'Easy to use' does not specify what parts of the system should be easy to use.
