@@ -22,8 +22,8 @@
 - What happens if nobody shows up to a booking? Answerable by Equipment Manager
   
 # Information Sources
-- Equipment Manager and Department Administrator.
-- 
+Equipment Manager and Department Administrator.
+
 # Elicitation Questions
 ## Equipment Manager
 - What happens when equipment is returned?
